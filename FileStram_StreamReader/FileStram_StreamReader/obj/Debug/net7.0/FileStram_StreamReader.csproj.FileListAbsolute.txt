@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\FileStram_StreamReader.csproj.AssemblyReference.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\FileStram_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\FileStram_StreamReader.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\FileStram_StreamReader.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\FileStram_StreamReader.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\bin\Debug\net7.0\FileStram_StreamReader.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\bin\Debug\net7.0\FileStram_StreamReader.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\bin\Debug\net7.0\FileStram_StreamReader.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\bin\Debug\net7.0\FileStram_StreamReader.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\bin\Debug\net7.0\FileStram_StreamReader.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\FileStram_StreamReader.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\refint\FileStram_StreamReader.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\FileStram_StreamReader.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\FileStram_StreamReader.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Seção 13 - Trabalhando com Arquivos\FileStram_StreamReader\FileStram_StreamReader\obj\Debug\net7.0\ref\FileStram_StreamReader.dll
