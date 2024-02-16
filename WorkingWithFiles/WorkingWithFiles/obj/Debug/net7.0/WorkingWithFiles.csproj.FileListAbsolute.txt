@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\bin\Debug\net7.0\WorkingWithFiles.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\bin\Debug\net7.0\WorkingWithFiles.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\bin\Debug\net7.0\WorkingWithFiles.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\bin\Debug\net7.0\WorkingWithFiles.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\bin\Debug\net7.0\WorkingWithFiles.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\WorkingWithFiles.csproj.AssemblyReference.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\WorkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\WorkingWithFiles.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\WorkingWithFiles.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\WorkingWithFiles.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\WorkingWithFiles.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\refint\WorkingWithFiles.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\WorkingWithFiles.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\WorkingWithFiles.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\WorkingWithFiles\WorkingWithFiles\obj\Debug\net7.0\ref\WorkingWithFiles.dll

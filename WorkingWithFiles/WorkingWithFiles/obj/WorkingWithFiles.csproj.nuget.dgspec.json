@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 13 - Trabalhando com Arquivos\\WorkingWithFiles\\WorkingWithFiles\\WorkingWithFiles.csproj": {}
+    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao13-CsharpFileFileInfoIOException\\WorkingWithFiles\\WorkingWithFiles\\WorkingWithFiles.csproj": {}
   },
   "projects": {
-    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 13 - Trabalhando com Arquivos\\WorkingWithFiles\\WorkingWithFiles\\WorkingWithFiles.csproj": {
+    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao13-CsharpFileFileInfoIOException\\WorkingWithFiles\\WorkingWithFiles\\WorkingWithFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 13 - Trabalhando com Arquivos\\WorkingWithFiles\\WorkingWithFiles\\WorkingWithFiles.csproj",
+        "projectUniqueName": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao13-CsharpFileFileInfoIOException\\WorkingWithFiles\\WorkingWithFiles\\WorkingWithFiles.csproj",
         "projectName": "WorkingWithFiles",
-        "projectPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 13 - Trabalhando com Arquivos\\WorkingWithFiles\\WorkingWithFiles\\WorkingWithFiles.csproj",
+        "projectPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao13-CsharpFileFileInfoIOException\\WorkingWithFiles\\WorkingWithFiles\\WorkingWithFiles.csproj",
         "packagesPath": "C:\\Users\\igort\\.nuget\\packages\\",
-        "outputPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 13 - Trabalhando com Arquivos\\WorkingWithFiles\\WorkingWithFiles\\obj\\",
+        "outputPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Secao13-CsharpFileFileInfoIOException\\WorkingWithFiles\\WorkingWithFiles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
