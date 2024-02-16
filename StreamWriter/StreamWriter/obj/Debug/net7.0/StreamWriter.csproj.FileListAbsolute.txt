@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.csproj.AssemblyReference.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\bin\Debug\net7.0\StreamWriter.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\refint\StreamWriter.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\StreamWriter.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\StreamWriter\StreamWriter\obj\Debug\net7.0\ref\StreamWriter.dll
