@@ -1,0 +1,15 @@
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.exe
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.deps.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.runtimeconfig.json
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net7.0\DirectoryDirectoryInfo.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.csproj.AssemblyReference.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.AssemblyInfoInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.AssemblyInfo.cs
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\refint\DirectoryDirectoryInfo.dll
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.pdb
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\DirectoryDirectoryInfo.genruntimeconfig.cache
+C:\MMIS\01 - CURSOS\Udemy\C#\Secao13-CsharpFileFileInfoIOException\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net7.0\ref\DirectoryDirectoryInfo.dll
